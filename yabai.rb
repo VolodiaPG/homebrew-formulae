@@ -3,7 +3,7 @@ class Yabai < Formula
   homepage "https://github.com/koekeishiya/yabai"
   url "https://github.com/koekeishiya/yabai/releases/download/v7.1.15/yabai-v7.1.15.tar.gz"
   sha256 "9ac2007d110967c98838fb15e507c33b2476df92fdd62b96f8c6e61c7dccbb47"
-  head "https://github.com/tbiehn/yabai.git", branch: "TahoeBeta2Dock"
+  head "https://github.com/tbiehn/yabai-tahoe.git", branch: "TahoeBeta2Dock"
 
   depends_on :macos => :big_sur
 
